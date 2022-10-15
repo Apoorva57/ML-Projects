@@ -5,8 +5,7 @@
     <img alt="NLP" title="NLP" src="https://user-images.githubusercontent.com/97695341/195971438-b44982d0-0663-47c6-bda6-ed4d7f9a0431.gif" width="450">
   </a>
 </p>
-
-<a href="https://drive.google.com/file/d/1hjh0WyZ0e2CJ83K_lmVXIFlMNWvFuNTs/view?usp=sharing"><h3 align="center">Video of code run</h4></a>
+Video of code run: https://drive.google.com/file/d/1hjh0WyZ0e2CJ83K_lmVXIFlMNWvFuNTs/view?usp=sharing
 
 ## NLP
 Natural Language Processing (NLP) enables machine learning algorithms to organize and understand human language. NLP enables machines to not only gather text and speech but also identify the core meaning it should respond to.
